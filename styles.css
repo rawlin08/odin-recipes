@@ -1,0 +1,50 @@
+.homelist {
+    background-color: aqua;
+}
+
+.mainlist {
+
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+h2 {
+
+}
+
+img {
+    width: 400px;
+    height: auto;
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p,
+ul,
+li,
+ol,
+h1,
+h2 {
+    text-align: center;
+}
+
+p {
+    
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin-right: 40px;
+}
+
+ol {
+    padding: 0px 200px;
+}
